@@ -1,1 +1,40 @@
 /bin/
+target/
+
+# OS Files #
+.DS_Store
+
+*.class
+
+# Package Files #
+#*.jar
+#*.war
+#*.ear
+#*.db
+
+######################
+# Windows
+######################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+######################
+# Eclipse
+######################
+bin/**
+tmp/**
+tmp/**/*
+classes/**
+classes/**/*
+work/**
+work**/*
+.*
+*.tmp
+*.bak
+*.swp
+*~.nib
